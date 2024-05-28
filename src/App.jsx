@@ -5,7 +5,7 @@ function App() {
         <>
             <Router className="router">
                 <Routes className="routes">
-                    <Route path="/" element={<>aze</>} />
+                    <Route path="/" element={<>azqweqwee</>} />
                 </Routes>
             </Router>
         </>
